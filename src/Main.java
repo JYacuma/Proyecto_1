@@ -5,6 +5,8 @@ public class Main {
 
         System.out.println("Se creo un nuevo proyecto");
 
+        System.out.println("Este parte de proyeto se centra en la tipografia de la pagina");
+
 
     }
 }
